@@ -332,3 +332,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T04:10:25.980Z,38.3858337,-121.767334,8.48,2.22,md,8.0,205.0,0.3992,0.03,nc,nc73701496,2022-03-05T04:12:01.564Z,"8km SE of Dixon, CA",earthquake,3.87,7.55,0.34,2.0,automatic,nc,nc
 2022-03-05T04:38:57.980Z,38.796833,-122.7819977,2.91,0.84,md,11.0,80.0,0.005892,0.02,nc,nc73701516,2022-03-05T04:46:11.107Z,"3km NW of The Geysers, CA",earthquake,0.5,0.79,,1.0,automatic,nc,nc
 2022-03-04T16:35:24.399Z,34.1355,-80.7402,5.0,1.7,ml,,111.0,0.312,0.47,us,us6000h28w,2022-03-05T05:05:24.040Z,"6 km SE of Elgin, South Carolina",earthquake,1.6,1.8,0.148,6.0,reviewed,us,us
+2022-03-05T05:19:36.290Z,34.5483322,-118.8284988,2.19,1.84,ml,21.0,183.0,0.1089,0.2,ci,ci40199888,2022-03-05T05:21:42.569Z,"15km NNW of Piru, CA",earthquake,0.61,0.74,0.28,18.0,automatic,ci,ci
+2022-03-05T05:08:51.660Z,33.5796667,-116.698,-0.17,0.37,ml,11.0,84.0,0.03576,0.11,ci,ci40199880,2022-03-05T05:12:25.500Z,"4km NW of Anza, CA",earthquake,0.21,31.61,0.05,4.0,automatic,ci,ci
+2022-03-05T05:03:04.015Z,-58.4502,-23.7089,10.0,5.0,mb,,112.0,8.227,0.97,us,us6000h28x,2022-03-05T05:20:21.040Z,South Sandwich Islands region,earthquake,10.7,1.8,0.082,50.0,reviewed,us,us
