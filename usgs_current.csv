@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-11T15:50:38.490Z,38.8250008,-122.7946701,2.52,0.35,md,14,76,0.01214,0.04,nc,nc73704211,2022-03-11T15:52:13.614Z,"6km W of Cobb, CA",earthquake,0.31,0.76,,1,automatic,nc,nc
+2022-03-11T15:49:37.580Z,32.605,-115.7465,9.55,1.08,ml,12,172,0.04735,0.27,ci,ci40205136,2022-03-11T15:53:17.807Z,"16km W of Progreso, B.C., MX",earthquake,0.94,0.88,0.362,6,automatic,ci,ci
 2022-03-11T15:39:53.980Z,19.167667388916,-155.475006103516,30.1100006103516,1.83000004,md,42,90,,0.140000001,hv,hv72947082,2022-03-11T15:43:14.070Z,"3 km S of Pāhala, Hawaii",earthquake,0.57,0.889999986,1.78999996,10,automatic,hv,hv
 2022-03-11T15:27:28.780Z,38.7905006,-122.7486649,2.01,0.7,md,9,87,0.01182,0.02,nc,nc73704206,2022-03-11T15:44:16.076Z,"2km NNE of The Geysers, CA",earthquake,0.3,0.89,0.16,2,automatic,nc,nc
-2022-03-11T15:03:17.330Z,34.2291667,-80.543,1.19,2.09,md,10,87,0.1554,0.28,se,se60147043,2022-03-11T15:42:36.569Z,"6 km ESE of Camden, South Carolina",earthquake,0.63,3.18,0.014,5,reviewed,se,se
+2022-03-11T15:03:17.330Z,34.2291667,-80.543,1.19,2.09,md,10,87,0.1554,0.28,se,se60147043,2022-03-11T15:51:38.285Z,"6 km ESE of Camden, South Carolina",earthquake,0.63,3.18,0.014,5,reviewed,se,se
 2022-03-11T14:55:59.890Z,33.842,-116.9988333,4.07,0.67,ml,18,50,0.1336,0.16,ci,ci40205080,2022-03-11T14:59:36.785Z,"8km NNW of San Jacinto, CA",earthquake,0.29,1.28,0.098,13,automatic,ci,ci
 2022-03-11T14:55:34.400Z,19.0441666666667,-68.1151666666667,51.64,3.22,md,11,202,,0.81,pr,pr71339828,2022-03-11T15:44:23.120Z,"59 km NNE of Punta Cana, Dominican Republic",earthquake,7.82,14.37,0.0953987302485875,10,reviewed,pr,pr
 2022-03-11T14:37:58.500Z,36.1025,-117.8536667,2.5,0.75,ml,9,159,0.01508,0.08,ci,ci40205072,2022-03-11T14:41:26.084Z,"11km NE of Coso Junction, CA",earthquake,0.48,0.36,0.055,5,automatic,ci,ci
