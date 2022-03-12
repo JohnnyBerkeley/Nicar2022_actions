@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T05:38:46.140Z,17.9191666666667,-66.9376666666667,15.62,1.6,md,5,229,,0.06,pr,pr71339868,2022-03-12T06:52:47.330Z,"6 km SSW of Guánica, Puerto Rico",earthquake,1.67,0.64,0.000130405052150229,3,reviewed,pr,pr
 2022-03-12T05:31:10.870Z,-7.3035,106.0707,37.41,5.3,mww,,54,1.574,1.09,us,us6000h3ys,2022-03-12T09:59:20.824Z,"63 km WSW of Pelabuhanratu, Indonesia",earthquake,3.6,6.2,0.075,17,reviewed,us,us
 2022-03-12T05:25:58.827Z,36.6585,-116.2905,12.6,0.3,ml,8,176.17,0.041,0.0799,nn,nn00835256,2022-03-12T05:29:00.266Z,"50 km ESE of Beatty, Nevada",earthquake,,1.8,0.23,4,automatic,nn,nn
-2022-03-12T05:15:46.890Z,36.3546667,-117.964,1.86,2.47,ml,26,80,0.1266,0.19,ci,ci40205696,2022-03-12T05:19:26.240Z,"9km NNE of Olancha, CA",earthquake,0.35,2.12,0.207,25,automatic,ci,ci
+2022-03-12T05:15:46.890Z,36.3546667,-117.964,1.86,2.47,ml,26,80,0.1266,0.19,ci,ci40205696,2022-03-12T14:25:13.269Z,"9km NNE of Olancha, CA",earthquake,0.35,2.12,0.207,25,automatic,ci,ci
 2022-03-12T05:13:08.500Z,33.5006667,-116.6886667,9.62,0.37,ml,16,81,0.02028,0.28,ci,ci40205680,2022-03-12T05:16:44.154Z,"6km SSW of Anza, CA",earthquake,0.63,0.92,0.124,8,automatic,ci,ci
 2022-03-12T04:45:47.800Z,36.3513333,-117.9645,1.73,1.95,ml,24,79,0.1285,0.2,ci,ci40205672,2022-03-12T04:56:42.620Z,"9km NNE of Olancha, CA",earthquake,0.38,2.82,0.262,26,automatic,ci,ci
 2022-03-12T04:21:46.600Z,38.8138351,-122.8236694,2.22,1.07,md,23,55,0.006567,0.02,nc,nc73704551,2022-03-12T06:37:14.505Z,"7km NW of The Geysers, CA",earthquake,0.21,0.4,0.11,4,automatic,nc,nc
