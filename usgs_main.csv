@@ -2781,3 +2781,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T19:16:16.360Z,33.9356651,-116.6389999,10.89,3.1,ml,115.0,37.0,0.1226,0.18,ci,ci40207704,2022-03-14T19:26:00.150Z,"9km WNW of Garnet, CA",earthquake,0.16,0.73,0.301,16.0,automatic,ci,ci
 2022-03-14T19:27:23.537Z,60.0726,-152.461,92.0,1.9,ml,,,,0.85,ak,ak0223d1penv,2022-03-14T19:32:13.637Z,"42 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-14T19:26:22.400Z,33.197,-115.6368333,3.17,1.46,ml,21.0,81.0,0.01829,0.17,ci,ci40207720,2022-03-14T19:32:45.032Z,"12km WSW of Niland, CA",earthquake,0.33,0.4,0.277,29.0,automatic,ci,ci
+2022-03-14T19:50:05.070Z,19.5615005493164,-155.080169677734,19.1700000762939,2.13000011,md,42.0,124.0,,0.129999995,hv,hv72950057,2022-03-14T19:53:31.630Z,"2 km ENE of Mountain View, Hawaii",earthquake,0.4,1.29999995,0.409999996,21.0,automatic,hv,hv
