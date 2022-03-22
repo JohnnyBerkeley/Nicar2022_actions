@@ -4820,3 +4820,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T09:19:48.960Z,34.0898333,-118.2725,6.8,1.14,ml,17.0,201.0,0.03644,0.2,ci,ci39974095,2022-03-22T09:23:26.184Z,"1km WSW of Silver Lake, CA",earthquake,0.58,0.69,0.21,26.0,automatic,ci,ci
 2022-03-22T09:15:10.020Z,33.3258333,-116.3858333,8.95,0.99,ml,30.0,72.0,0.06318,0.18,ci,ci39974087,2022-03-22T09:18:40.450Z,"8km N of Borrego Springs, CA",earthquake,0.28,0.66,0.177,26.0,automatic,ci,ci
 2022-03-22T09:28:45.400Z,17.1625,-68.232,57.0,3.97,md,23.0,258.0,1.3595,0.54,pr,pr2022081001,2022-03-22T09:51:23.929Z,"140 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.35,10.75,0.1,7.0,reviewed,pr,pr
+2022-03-22T10:04:04.990Z,35.9161667,-117.6916667,2.55,1.06,ml,16.0,67.0,0.0461,0.17,ci,ci39974103,2022-03-22T10:07:33.776Z,"20km E of Little Lake, CA",earthquake,0.39,0.56,0.118,13.0,automatic,ci,ci
+2022-03-21T19:45:07.861Z,31.61539895,-103.991424,9.962060547000002,2.7,ml,10.0,104.0,0.09673849398,0.2,tx,tx2022fpvv,2022-03-22T09:57:43.906Z,"38 km NNW of Toyah, Texas",earthquake,1.7484822849999997,3.110096878,0.1,6.0,reviewed,tx,tx
