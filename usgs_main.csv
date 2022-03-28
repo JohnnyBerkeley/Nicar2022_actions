@@ -6633,3 +6633,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T14:31:33.750Z,47.534666666666666,-120.14,8.38,0.46,ml,6.0,185.0,0.08735,0.13,uw,uw61816932,2022-03-28T17:22:11.240Z,"13 km SSW of Waterville, Washington",earthquake,0.51,1.29,0.062275654499145,4.0,reviewed,uw,uw
 2022-03-28T14:15:51.099Z,51.19,-174.0737,47.7,2.5,ml,,,,0.46,ak,ak0224046lln,2022-03-28T17:19:56.149Z,"112 km S of Atka, Alaska",earthquake,,8.8,,,reviewed,ak,ak
 2022-03-28T11:18:27.920Z,41.788,-118.70616666666666,-1.53,1.71,ml,4.0,271.0,1.199,0.39,uw,uw61816917,2022-03-28T17:17:38.980Z,"23 km SSW of Denio, Nevada",earthquake,13.01,15.05,0.0804325588062967,2.0,reviewed,uw,uw
+2022-03-28T17:46:01.140Z,33.1790009,-116.012001,3.24,1.39,ml,30.0,71.0,0.02925,0.17,ci,ci39980687,2022-03-28T17:48:19.934Z,"12km ENE of Ocotillo Wells, CA",earthquake,0.3,0.45,0.042,4.0,automatic,ci,ci
