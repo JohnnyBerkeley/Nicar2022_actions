@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T18:19:45.790Z,19.1730003356934,-155.464828491211,32.3499984741211,1.70000005,md,31,199,,0.159999996,hv,hv72965057,2022-03-28T18:22:49.530Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.79,0.99000001,0.720000029,3,automatic,hv,hv
 2022-03-28T18:13:00.290Z,38.8414993,-122.8799973,2.49,0.84,md,13,97,0.004241,0.02,nc,nc73711591,2022-03-28T18:14:34.443Z,"12km ENE of Cloverdale, CA",earthquake,0.3,0.59,0.04,3,automatic,nc,nc
 2022-03-28T18:12:06.160Z,33.2595,-115.9955,2.67,1.83,ml,43,87,0.08706,0.22,ci,ci39980719,2022-03-28T18:23:21.120Z,"6km SW of Salton City, CA",earthquake,0.32,0.83,0.13,26,automatic,ci,ci
-2022-03-28T18:02:05.353Z,31.6447,-104.2138,5,3.4,ml,,104,0.245,0.26,us,us7000gxwf,2022-03-28T18:11:59.040Z,"54 km NW of Toyah, Texas",earthquake,1.4,2,0.077,78,reviewed,us,us
+2022-03-28T18:02:05.657Z,31.63946138,-104.2237336,7.519799805,3.4,ml,11,66,0.04762781959,0.2,tx,tx2022gcmz,2022-03-28T18:57:33.381Z,"54 km NW of Toyah, Texas",earthquake,1.251643015,1.329707523,0.1,7,reviewed,tx,tx
 2022-03-28T18:01:26.790Z,37.5183333,-118.7878333,10.03,0.36,md,10,263,0.07873,0.04,nc,nc73711581,2022-03-28T18:27:20.805Z,"11km WSW of Toms Place, CA",earthquake,0.95,1.85,0.262,10,reviewed,nc,nc
 2022-03-28T17:46:01.200Z,33.181,-116.0045,4.76,1.38,ml,25,45,0.02366,0.23,ci,ci39980687,2022-03-28T17:49:38.943Z,"13km ENE of Ocotillo Wells, CA",earthquake,0.39,0.78,0.099,26,automatic,ci,ci
 2022-03-28T17:37:22.024Z,31.6409,-104.2075,5,3.1,ml,,103,0.251,0.25,us,us7000gxwa,2022-03-28T17:50:15.040Z,"53 km NW of Toyah, Texas",earthquake,1.8,2,0.071,80,reviewed,us,us
@@ -35,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T15:11:48.000Z,39.4226667,-110.3228333,-1.27,1.48,md,5,191,0.002265,0.01,uu,uu60487262,2022-03-28T16:39:06.180Z,"15 km SSE of Sunnyside, Utah",earthquake,1.6,0.25,0.107,5,reviewed,uu,uu
 2022-03-28T15:06:35.530Z,38.8419991,-122.8785019,2.48,0.88,md,19,93,0.005401,0.02,nc,nc73711546,2022-03-28T15:24:12.688Z,"13km ENE of Cloverdale, CA",earthquake,0.26,0.48,0.27,4,automatic,nc,nc
 2022-03-28T15:03:52.580Z,18.2535,-66.3906666666667,31.69,2.69,md,11,57,,0.14,pr,pr71342388,2022-03-28T16:38:52.380Z,"2 km N of Orocovis, Puerto Rico",earthquake,0.45,0.85,0.00444841514423633,3,reviewed,pr,pr
-2022-03-28T15:00:39.390Z,35.6505013,-117.4671631,6.57,2.21,ml,32,54,0.06399,0.13,ci,ci39980551,2022-03-28T15:04:29.894Z,"14km SSW of Searles Valley, CA",earthquake,0.23,0.74,0.177,26,automatic,ci,ci
+2022-03-28T15:00:39.320Z,35.651,-117.464,7.56,2.1,ml,29,72,0.06438,0.11,ci,ci39980551,2022-03-28T18:56:13.920Z,"14km SSW of Searles Valley, CA",earthquake,0.15,0.46,0.137,23,reviewed,ci,ci
 2022-03-28T14:51:35.520Z,37.5275,-118.4683333,1.5,1.49,md,11,173,0.1029,0.06,nc,nc73711531,2022-03-28T18:27:10.748Z,"16km NNW of Dixon Lane-Meadow Creek, CA",earthquake,1.4,5.12,0.114,11,reviewed,nc,nc
 2022-03-28T14:51:04.060Z,39.4221667,-110.314,-1.42,0.96,md,5,194,0.008812,0.02,uu,uu60487252,2022-03-28T16:31:21.760Z,"15 km SSE of Sunnyside, Utah",earthquake,0.88,0.38,0.268,5,reviewed,uu,uu
 2022-03-28T14:48:40.270Z,33.193,-116.0005,7.94,1.71,ml,52,37,0.02725,0.16,ci,ci39980543,2022-03-28T18:52:01.370Z,"12km SSW of Salton City, CA",earthquake,0.16,0.46,0.14,22,reviewed,ci,ci
@@ -84,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T09:58:11.780Z,36.0369987,-120.6001663,3.36,1.65,md,16,88,0.0319,0.07,nc,nc73711451,2022-03-28T11:50:15.387Z,"22km NW of Parkfield, CA",earthquake,0.33,0.64,0.13,10,automatic,nc,nc
 2022-03-28T09:49:50.187Z,66.5332,-148.2556,19.1,1.8,ml,,,,0.74,ak,ak022401epdk,2022-03-28T09:57:48.717Z,"42 km WNW of Beaver, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-28T09:47:38.240Z,32.5736667,-116.1741667,8.72,1.33,ml,18,109,0.09377,0.18,ci,ci39980351,2022-03-28T09:51:13.663Z,"25km SW of Ocotillo, CA",earthquake,0.37,1.33,0.19,20,automatic,ci,ci
-2022-03-28T09:22:29.230Z,33.1765,-115.6225,2.36,1.5,ml,19,85,0.005834,0.22,ci,ci37492397,2022-03-28T18:53:01.181Z,"12km WNW of Calipatria, CA",earthquake,0.49,0.19,0.08,3,reviewed,ci,ci
+2022-03-28T09:22:29.230Z,33.1765,-115.6225,2.36,1.5,ml,19,85,0.005834,0.22,ci,ci37492397,2022-03-28T18:56:18.211Z,"12km WNW of Calipatria, CA",earthquake,0.49,0.19,0.08,3,reviewed,ci,ci
 2022-03-28T09:22:21.380Z,33.183,-115.6136667,2.1,1.6,ml,34,48,0.005758,0.22,ci,ci39980343,2022-03-28T18:47:41.629Z,"11km SW of Niland, CA",earthquake,0.21,0.13,0.246,12,reviewed,ci,ci
 2022-03-28T09:21:13.570Z,35.6321667,-117.5523333,8.53,1.49,ml,23,77,0.08643,0.17,ci,ci39980335,2022-03-28T18:34:40.556Z,"11km E of Ridgecrest, CA",earthquake,0.28,0.71,0.216,8,reviewed,ci,ci
 2022-03-28T09:02:30.040Z,33.1858333,-115.615,1.82,1.38,ml,26,83,0.006897,0.19,ci,ci39980327,2022-03-28T18:30:33.534Z,"11km SW of Niland, CA",earthquake,0.23,0.16,0.26,12,reviewed,ci,ci
@@ -203,5 +203,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T19:43:27.947Z,38.5157,-119.5137,8.7,1.8,ml,8,127.03,0.06,0.1405,nn,nn00836156,2022-03-28T18:14:40.586Z,"3 km W of Walker, California",earthquake,,1.5,0.41,5,reviewed,nn,nn
 2022-03-27T19:36:35.830Z,33.8925,-116.2648333,8.31,0.93,ml,19,103,0.08284,0.27,ci,ci39980007,2022-03-27T19:40:15.518Z,"14km NE of Thousand Palms, CA",earthquake,0.51,1.09,0.218,24,automatic,ci,ci
 2022-03-27T19:16:19.313Z,61.3415,-150.3918,60.6,1.4,ml,,,,0.25,ak,ak0223yjmjwr,2022-03-27T19:19:39.418Z,"22 km W of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-03-27T19:13:17.580Z,33.3251667,-116.3885,7.85,1.18,ml,41,53,0.06168,0.23,ci,ci39979991,2022-03-27T19:24:17.330Z,"8km N of Borrego Springs, CA",earthquake,0.29,0.8,0.172,26,automatic,ci,ci
+2022-03-27T19:13:17.490Z,33.3238333,-116.3896667,9.84,1.12,ml,52,31,0.01908,0.19,ci,ci39979991,2022-03-28T18:56:17.860Z,"8km N of Borrego Springs, CA",earthquake,0.18,0.41,0.136,29,reviewed,ci,ci
 2022-03-27T19:02:27.320Z,19.08,-66.478,28.95,3.17,md,12,273,,0.3,pr,pr71342318,2022-03-27T19:22:08.290Z,"68 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.41,9.54,0.189398937932519,7,reviewed,pr,pr
