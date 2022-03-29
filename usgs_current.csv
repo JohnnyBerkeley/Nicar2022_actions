@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T09:06:01.410Z,23.9243,122.3055,10,4.4,mb,,123,0.695,0.54,us,us7000gy20,2022-03-29T10:29:29.040Z,"71 km E of Hualien City, Taiwan",earthquake,2.2,1.9,0.088,37,reviewed,us,us
 2022-03-29T09:04:53.612Z,60.1596,-153.5874,166,2.6,ml,,,,0.61,ak,ak02241ooeyw,2022-03-29T09:37:24.040Z,"40 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-29T08:53:17.590Z,38.8218346,-122.802002,2.89,0.84,md,8,96,0.006495,0.01,nc,nc73711836,2022-03-29T09:09:14.172Z,"6km NW of The Geysers, CA",earthquake,0.46,1.4,,1,automatic,nc,nc
-2022-03-29T08:34:51.769Z,-35.2131,138.8378,10,3,ml,,142,2.871,0.23,us,us7000gy27,2022-03-29T11:43:54.475Z,"4 km S of Macclesfield, Australia",earthquake,6.5,2,0.148,6,reviewed,us,us
+2022-03-29T08:34:51.769Z,-35.2131,138.8378,10,3,ml,,142,2.871,0.23,us,us7000gy27,2022-03-29T12:01:48.311Z,"4 km S of Macclesfield, Australia",earthquake,6.5,2,0.148,6,reviewed,us,us
 2022-03-29T08:24:36.513Z,-5.6818,132.723,10,4.5,mb,,142,2.687,1.2,us,us7000gy1v,2022-03-29T09:52:32.040Z,"6 km SSW of Tual, Indonesia",earthquake,6.2,1.9,0.163,11,reviewed,us,us
 2022-03-29T08:21:47.418Z,60.2381,-150.4498,37.6,2,ml,,,,0.32,ak,ak02241o6lzp,2022-03-29T08:23:54.654Z,"34 km SSE of Funny River, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2022-03-29T08:12:49.222Z,39.6435,-119.8443,4.6,0.9,ml,10,76.29,0.065,0.143,nn,nn00836234,2022-03-29T08:15:44.434Z,"0 km N of Lemmon Valley, Nevada",earthquake,,1.8,0.19,5,automatic,nn,nn
@@ -217,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T12:53:03.904Z,61.2901,-146.349,20.7,1.7,ml,,,,0.79,ak,ak0224037rh2,2022-03-28T13:02:56.617Z,"17 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-28T12:47:32.348Z,57.7589,-156.0895,115.38,2.6,ml,,134,0.119,0.53,us,us7000gxun,2022-03-29T06:24:46.040Z,"82 km ENE of Ugashik, Alaska",earthquake,7.8,13,0.06,37,reviewed,us,us
 2022-03-28T12:16:11.750Z,19.427,-155.3905,0,2.24,ml,52,43,,0.19,hv,hv72964817,2022-03-28T22:45:46.070Z,"16 km W of Volcano, Hawaii",earthquake,0.21,0.24,0.257982313274155,17,reviewed,hv,hv
-2022-03-28T12:03:28.100Z,38.8330002,-122.8183365,1.59,0.9,md,16,69,0.01635,0.03,nc,nc73711486,2022-03-28T13:55:13.147Z,"8km NW of The Geysers, CA",earthquake,0.22,0.62,0.16,4,automatic,nc,nc
-2022-03-28T11:58:30.590Z,18.7335,-66.9666666666667,56.17,3.24,md,13,247,,0.26,pr,pr71342383,2022-03-28T12:27:31.980Z,"Puerto Rico region",earthquake,1.05,1.42,0.0269896684398634,6,reviewed,pr,pr
-2022-03-28T11:57:31.678Z,21.21,122.0552,177.61,4.4,mb,,112,1.838,0.39,us,us7000gxue,2022-03-29T05:59:40.040Z,"84 km N of Basco, Philippines",earthquake,10.2,3.2,0.1,29,reviewed,us,us
