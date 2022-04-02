@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T22:18:20.461Z,62.8409,-148.283,55.3,2.1,ml,,,,0.55,ak,ak02248ind7o,2022-04-02T22:26:16.532Z,"70 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-02T22:14:00.219Z,65.3864,-148.0427,3.6,1.4,ml,,,,0.4,ak,ak02248imgs7,2022-04-02T22:25:00.129Z,"27 km ESE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-02T22:08:47.980Z,38.8221664,-122.8001633,2.04,1.01,md,25,49,0.007838,0.03,nc,nc73713541,2022-04-02T22:42:15.340Z,"6km NW of The Geysers, CA",earthquake,0.19,0.4,0.45,2,automatic,nc,nc
-2022-04-02T22:08:34.420Z,38.774334,-122.7201691,1.13,1.77,md,23,95,0.0157,0.04,nc,nc73713536,2022-04-02T22:29:25.279Z,"2km W of Anderson Springs, CA",earthquake,0.26,0.52,0.1,8,automatic,nc,nc
+2022-04-02T22:08:34.420Z,38.774334,-122.7201691,1.13,1.77,md,23,95,0.0157,0.04,nc,nc73713536,2022-04-02T23:47:10.713Z,"2km W of Anderson Springs, CA",earthquake,0.26,0.52,0.1,8,automatic,nc,nc
 2022-04-02T22:05:15.391Z,-17.0794,-174.5839,10,5.2,mb,,63,4.151,1.05,us,us7000gz9i,2022-04-02T22:25:10.040Z,"150 km SW of Hihifo, Tonga",earthquake,9.5,1.9,0.041,197,reviewed,us,us
 2022-04-02T22:04:01.900Z,34.2688333,-116.6978333,15.95,1.57,ml,6,180,0.262,0.13,ci,ci39984855,2022-04-02T22:07:56.201Z,"14km E of Big Bear City, CA",earthquake,0.77,31.61,0.224,22,automatic,ci,ci
 2022-04-02T22:03:37.450Z,38.8203333,-122.7995,2.51,1.51,md,47,31,0.008808,0.03,nc,nc73713531,2022-04-02T23:34:10.628Z,"6km NW of The Geysers, CA",earthquake,0.15,0.29,0.063,13,reviewed,nc,nc
@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T19:57:54.522Z,51.0909,175.5861,10,3,ml,,250,1.881,0.64,us,us7000gz9c,2022-04-02T21:05:58.040Z,"255 km SE of Attu Station, Alaska",earthquake,5.2,2,0.097,14,reviewed,us,us
 2022-04-02T19:54:20.850Z,38.789,-122.7785,1.34,-0.16,md,13,82,0.008461,0.02,nc,nc73713496,2022-04-02T23:18:28.866Z,"2km NW of The Geysers, CA",earthquake,0.27,0.45,0.108,3,reviewed,nc,nc
 2022-04-02T19:45:15.098Z,51.61,-173.4552,33.39,2.5,ml,,215,0.75,0.41,us,us7000gz99,2022-04-02T20:54:22.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,5.1,17.8,0.115,10,reviewed,us,us
-2022-04-02T19:40:14.029Z,32.41607666,-101.5940596,7.067423503,3.1,ml,8,144,0.1946282478,0.1,tx,tx2022glts,2022-04-02T20:08:53.850Z,"western Texas",earthquake,1.380449073,2.944138455,0.2,6,reviewed,tx,tx
+2022-04-02T19:40:14.029Z,32.41607666,-101.5940596,7.067423503,3.1,ml,8,144,0.1946282478,0.1,tx,tx2022glts,2022-04-02T20:08:53.850Z,"16 km SE of Ackerly, Texas",earthquake,1.380449073,2.944138455,0.2,6,reviewed,tx,tx
 2022-04-02T19:28:31.200Z,33.374,-116.8405,9.59,0.67,ml,25,61,0.1537,0.22,ci,ci39984767,2022-04-02T19:32:04.628Z,"3km NE of Palomar Observatory, CA",earthquake,0.34,1.59,0.182,18,automatic,ci,ci
 2022-04-02T19:21:23.487Z,38.1901,-117.7585,3.5,1.6,ml,11,215.93,0.12,0.1088,nn,nn00836589,2022-04-02T19:25:11.038Z,"37 km SE of Mina, Nevada",earthquake,,1.3,0.21,7,automatic,nn,nn
 2022-04-02T19:11:06.430Z,36.0666667,-117.8551667,3.46,0.9,ml,10,139,0.05081,0.1,ci,ci39984743,2022-04-02T19:14:40.050Z,"9km ENE of Coso Junction, CA",earthquake,0.3,0.53,0.24,8,automatic,ci,ci
@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T00:08:13.687Z,61.8193,-149.968,45.4,1.5,ml,,,,0.73,ak,ak022485ho7s,2022-04-02T00:15:46.508Z,"8 km NNE of Willow, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-04-02T00:07:42.969Z,36.6454,-115.8808,1.2,1.1,ml,17,113.22,0.118,0.2698,nn,nn00836532,2022-04-02T00:10:52.445Z,"20 km WNW of Indian Springs, Nevada",earthquake,,4,0.78,13,automatic,nn,nn
 2022-04-01T23:59:33.380Z,17.9831666666667,-66.9976666666667,13.41,2.45,md,6,159,,0.06,pr,pr71343013,2022-04-02T00:23:18.150Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.6,0.39,0.0309424011766843,2,reviewed,pr,pr
-2022-04-01T23:42:03.159Z,64.8163,-147.2684,16.2,1.2,ml,,,,0.96,ak,ak02246vuk65,2022-04-01T23:54:28.186Z,"8 km NNE of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
