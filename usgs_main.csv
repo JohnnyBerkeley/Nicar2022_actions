@@ -11844,3 +11844,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T04:08:09.780Z,33.5855,-116.8041667,6.98,0.13,ml,17.0,74.0,0.03443,0.21,ci,ci40237944,2022-04-16T04:11:47.044Z,"13km WNW of Anza, CA",earthquake,0.57,1.21,0.072,6.0,automatic,ci,ci
 2022-04-15T23:56:25.690Z,37.0263333,-121.487,5.81,0.91,md,15.0,85.0,0.002199,0.07,nc,nc73718080,2022-04-16T04:21:56.331Z,"8km ENE of Gilroy, CA",earthquake,0.29,0.46,0.177,13.0,reviewed,nc,nc
 2022-04-16T04:48:57.940Z,34.5238342,-119.0981674,13.65,1.31,ml,17.0,72.0,0.09259,0.16,ci,ci40237976,2022-04-16T04:51:03.897Z,"16km ENE of Ojai, CA",earthquake,0.5,1.57,0.213,4.0,automatic,ci,ci
+2022-04-16T05:00:05.140Z,38.7818336,-122.7638321,0.2,0.9,md,15.0,71.0,0.0112,0.05,nc,nc73718185,2022-04-16T05:03:56.890Z,"1km NW of The Geysers, CA",earthquake,0.25,0.58,0.28,4.0,automatic,nc,nc
