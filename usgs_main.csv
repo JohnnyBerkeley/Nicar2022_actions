@@ -12206,3 +12206,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T16:31:07.832Z,61.2415,-149.7208,35.9,1.5,ml,,,,0.71,ak,ak0224x87qbg,2022-04-17T16:46:14.332Z,"5 km WSW of Elmendorf Air Force Base, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-17T16:17:59.870Z,33.714,-116.6805,20.09,0.53,ml,15.0,154.0,0.02617,0.22,ci,ci40239064,2022-04-17T16:21:38.007Z,"5km SE of Idyllwild, CA",earthquake,0.71,0.75,0.123,12.0,automatic,ci,ci
 2022-04-17T16:17:22.670Z,19.1380004882812,-155.450332641602,31.2900009155273,2.1400001,md,44.0,169.0,,0.109999999,hv,hv72987802,2022-04-17T16:20:30.340Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.59,0.829999983,1.02999997,24.0,automatic,hv,hv
+2022-04-17T16:57:30.930Z,34.0598333,-117.2528333,13.85,0.98,ml,39.0,70.0,0.1214,0.3,ci,ci40239072,2022-04-17T17:01:02.457Z,"2km NNE of Loma Linda, CA",earthquake,0.44,1.14,0.112,30.0,automatic,ci,ci
+2022-04-17T16:48:12.835Z,63.3126,-151.0834,0.0,1.4,ml,,,,0.6,ak,ak0224x8bdvn,2022-04-17T16:58:41.913Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-17T16:08:03.108Z,31.1878,142.4014,10.0,4.5,mb,,99.0,2.917,0.52,us,us7000h2x7,2022-04-17T17:04:58.040Z,"Izu Islands, Japan region",earthquake,9.1,1.8,0.077,51.0,reviewed,us,us
