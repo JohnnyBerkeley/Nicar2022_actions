@@ -12614,3 +12614,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T21:15:59.860Z,44.3725,-115.2123333,9.2,2.2,ml,10.0,83.0,0.909,0.24,mb,mb80543409,2022-04-18T23:21:57.890Z,"27 km NW of Stanley, Idaho",earthquake,0.58,1.71,0.148,10.0,reviewed,mb,mb
 2022-04-18T17:43:57.824Z,38.2333,-118.7159,11.8,0.0,ml,6.0,331.95,0.167,0.0548,nn,nn00837413,2022-04-18T23:22:34.882Z,"33 km SSW of Hawthorne, Nevada",earthquake,,19.9,0.0,1.0,reviewed,nn,nn
 2022-04-18T14:23:54.791Z,39.7783,-119.055,13.9,1.2,ml,6.0,140.59,0.263,0.2022,nn,nn00837411,2022-04-18T23:16:23.351Z,"25 km NE of Fernley, Nevada",earthquake,,14.5,0.34,5.0,reviewed,nn,nn
+2022-04-18T23:30:49.130Z,32.4088326,-115.2354965,17.0,2.51,ml,16.0,109.0,0.05974,0.31,ci,ci40240600,2022-04-18T23:33:09.385Z,"7km NNW of Delta, B.C., MX",earthquake,0.86,3.14,0.421,26.0,automatic,ci,ci
+2022-04-18T23:29:44.980Z,33.6721667,-116.7143333,15.19,0.77,ml,28.0,58.0,0.0389,0.19,ci,ci40240584,2022-04-18T23:33:26.204Z,"8km S of Idyllwild, CA",earthquake,0.33,0.47,0.193,20.0,automatic,ci,ci
+2022-04-18T23:28:50.198Z,39.719,-119.9168,0.1,1.6,ml,9.0,83.76,0.117,0.235,nn,nn00837415,2022-04-18T23:31:51.271Z,"6 km NE of Cold Springs, Nevada",earthquake,,9.4,0.24,7.0,automatic,nn,nn
+2022-04-18T23:28:08.760Z,38.8261681,-122.8580017,2.42,0.85,md,16.0,66.0,0.001633,0.02,nc,nc73719855,2022-04-18T23:34:02.640Z,"10km WNW of The Geysers, CA",earthquake,0.32,0.52,0.02,3.0,automatic,nc,nc
+2022-04-18T23:24:18.874Z,60.6184,-153.1975,234.1,1.6,ml,,,,0.44,ak,ak0224yzvmvz,2022-04-18T23:26:11.028Z,"77 km NE of Port Alsworth, Alaska",earthquake,,7.3,,,automatic,ak,ak
+2022-04-18T17:55:56.414Z,38.2612,-118.78,0.0,0.4,ml,7.0,330.7,0.216,0.1597,nn,nn00837414,2022-04-18T23:31:58.083Z,"32 km SSW of Hawthorne, Nevada",earthquake,,0.0,0.0,1.0,reviewed,nn,nn
