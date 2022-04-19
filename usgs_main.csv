@@ -12807,3 +12807,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T15:41:05.610Z,38.8126678,-122.739502,2.33,1.18,md,30.0,65.0,0.01985,0.06,nc,nc73720260,2022-04-19T15:51:26.506Z,"2km SW of Cobb, CA",earthquake,0.27,0.54,0.08,7.0,automatic,nc,nc
 2022-04-19T15:34:02.183Z,62.3315,-151.1721,76.6,2.0,ml,,,,0.64,ak,ak02250ipmf9,2022-04-19T15:39:54.975Z,"27 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-19T15:04:17.893Z,-31.2468,-68.527,111.43,4.5,mb,,182.0,0.326,0.38,us,us7000h3cb,2022-04-19T15:37:56.040Z,"20 km N of San Martín, Argentina",earthquake,10.3,4.5,0.382,3.0,reviewed,us,us
+2022-04-18T21:53:00.680Z,44.614,-113.0018333,4.7,0.76,ml,8.0,152.0,0.24,0.14,mb,mb80543559,2022-04-19T15:55:32.350Z,"29 km ESE of Leadore, Idaho",earthquake,0.66,8.4,0.084,2.0,reviewed,mb,mb
