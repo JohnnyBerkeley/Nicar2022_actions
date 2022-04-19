@@ -12697,3 +12697,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T22:04:53.130Z,53.834,-166.892666666667,5.45,0.14,ml,5.0,230.0,,0.05,av,av91055253,2022-04-19T04:59:32.070Z,"23 km WSW of Dutch Harbor, Alaska",earthquake,0.48,0.84,0.234468459852145,5.0,reviewed,av,av
 2022-04-19T05:47:21.049Z,63.2655,-145.5588,0.0,1.9,ml,,,,0.69,ak,ak02250cu43x,2022-04-19T05:49:28.351Z,"19 km N of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-19T05:41:48.674Z,62.8209,-149.0175,4.1,1.0,ml,,,,0.43,ak,ak02250csvyn,2022-04-19T05:43:56.505Z,"63 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-19T05:55:32.550Z,36.1759987,-118.0065002,2.5,2.27,ml,37.0,46.0,0.07769,0.18,ci,ci40240840,2022-04-19T05:59:10.938Z,"12km S of Olancha, CA",earthquake,0.25,0.58,0.236,25.0,automatic,ci,ci
