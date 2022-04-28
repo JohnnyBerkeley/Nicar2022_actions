@@ -15289,3 +15289,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-27T19:31:11.470Z,43.466,-110.8606667,6.22,0.74,ml,7.0,195.0,0.074,0.2,mb,mb80544279,2022-04-28T15:20:06.980Z,"4 km SSE of Wilson, Wyoming",earthquake,1.45,2.51,0.229,7.0,reviewed,mb,mb
 2022-04-28T15:46:47.680Z,38.7948341,-122.7649994,0.92,0.62,md,11.0,101.0,0.007107,0.03,nc,nc73725726,2022-04-28T15:48:24.110Z,"2km NNW of The Geysers, CA",earthquake,0.33,0.53,0.49,3.0,automatic,nc,nc
 2022-04-28T15:44:11.953Z,38.6966,-118.4675,15.3,1.0,ml,8.0,112.07,0.28,0.2127,nn,nn00838009,2022-04-28T15:48:16.391Z,"23 km NE of Hawthorne, Nevada",earthquake,,2.3,0.19,6.0,automatic,nn,nn
+2022-04-28T15:49:45.435Z,61.0135,-151.5895,80.3,1.0,ml,,,,0.62,ak,ak0225fen1xr,2022-04-28T15:52:44.340Z,"25 km WSW of Tyonek, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2022-04-28T08:10:30.150Z,34.0526667,-117.2608333,16.8,0.6,ml,14.0,130.0,0.112,0.16,ci,ci37496677,2022-04-28T15:55:20.771Z,"0km N of Loma Linda, CA",earthquake,0.42,0.84,0.094,3.0,reviewed,ci,ci
