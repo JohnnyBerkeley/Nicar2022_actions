@@ -15859,3 +15859,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-30T19:54:50.190Z,34.0115013,-116.6445007,22.48,1.08,ml,14.0,80.0,0.0271,0.29,ci,ci40249384,2022-04-30T19:56:55.155Z,"7km SW of Morongo Valley, CA",earthquake,0.96,1.89,0.493,4.0,automatic,ci,ci
 2022-04-30T20:29:47.860Z,32.67,-116.0043333,3.22,1.46,ml,22.0,67.0,0.07276,0.24,ci,ci40249416,2022-04-30T20:33:23.276Z,"7km S of Ocotillo, CA",earthquake,0.37,0.54,0.281,23.0,automatic,ci,ci
 2022-04-30T20:22:06.130Z,61.3821,-150.4814,16.9,1.4,ml,,,,0.44,ak,ak0225isj1l1,2022-04-30T20:25:46.352Z,"18 km S of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-30T20:51:35.280Z,34.0106659,-116.7128296,13.64,1.17,ml,36.0,50.0,0.06063,0.11,ci,ci40249440,2022-04-30T20:53:41.222Z,"12km NNE of Cabazon, CA",earthquake,0.24,0.65,0.285,8.0,automatic,ci,ci
