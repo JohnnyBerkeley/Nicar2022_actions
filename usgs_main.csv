@@ -19171,3 +19171,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T14:58:46.353Z,61.7732,-151.3919,80.4,0.9,ml,,,,0.26,ak,ak0226475p6o,2022-05-13T19:11:26.870Z,"24 km S of Skwentna, Alaska",earthquake,,1.8,,,reviewed,ak,ak
 2022-05-13T10:42:46.900Z,34.0623333,-117.8823333,8.92,0.55,ml,8.0,181.0,0.06903,0.12,ci,ci40017447,2022-05-13T18:55:33.920Z,"3km SSE of Covina, CA",earthquake,0.64,0.88,0.047,2.0,reviewed,ci,ci
 2022-05-13T07:35:57.680Z,31.6848514,-104.2867787,3.277978516,2.7,ml,9.0,65.0,0.1968715303,0.2,tx,tx2022jhtl,2022-05-13T19:09:44.099Z,"55 km S of Whites City, New Mexico",earthquake,1.639707703,3.440725618,0.2,7.0,reviewed,tx,tx
+2022-05-13T19:13:38.240Z,38.833168,-122.8160019,1.73,0.94,md,17.0,55.0,0.0108,0.03,nc,nc73733281,2022-05-13T19:23:11.005Z,"8km NW of The Geysers, CA",earthquake,0.23,0.53,0.29,2.0,automatic,nc,nc
