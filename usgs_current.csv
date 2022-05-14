@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-14T13:52:18.876Z,36.15264511,-98.42312622,3.452638626,2.17,ml,40,114.9051056,0.1538604647,0.528819424,ok,ok2022jkbj,2022-05-14T13:59:13.672Z,"10 km WNW of Okeene, Oklahoma",earthquake,2.150287798,1.719611744,,30,automatic,ok,ok
 2022-05-14T13:40:07.122Z,62.2418,-148.6012,31.4,1.5,ml,,,,0.58,ak,ak02265tzq8e,2022-05-14T13:49:27.782Z,"50 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-14T13:39:08.690Z,38.8269997,-122.8024979,1.96,0.35,md,12,69,0.006926,0.01,nc,nc73733636,2022-05-14T13:47:11.507Z,"7km NW of The Geysers, CA",earthquake,0.33,0.7,,1,automatic,nc,nc
 2022-05-14T13:27:30.590Z,33.5248333,-116.7393333,4.29,0.44,ml,20,48,0.0405,0.1,ci,ci40018527,2022-05-14T13:31:07.190Z,"7km WSW of Anza, CA",earthquake,0.2,0.31,0.191,9,automatic,ci,ci
