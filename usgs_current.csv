@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-17T14:57:21.320Z,35.9995003,-120.5611649,1.22,1.2,md,16,85,0.02224,0.05,nc,nc73746731,2022-06-17T14:58:59.098Z,"16km NW of Parkfield, CA",earthquake,0.23,0.44,0.35,7,automatic,nc,nc
+2022-06-17T14:56:06.920Z,37.6409988,-118.8889999,-0.66,1.72,md,12,137,0.007083,0.04,nc,nc73746726,2022-06-17T14:58:58.713Z,"8km E of Mammoth Lakes, CA",earthquake,0.39,0.22,0.22,12,automatic,nc,nc
 2022-06-17T14:43:22.230Z,33.7063333,-116.5581667,27.95,0.99,ml,13,168,0.2052,0.23,ci,ci40286112,2022-06-17T14:46:57.971Z,"12km SW of Cathedral City, CA",earthquake,1.61,1.11,0.301,15,automatic,ci,ci
-2022-06-17T14:41:39.900Z,38.8253326,-122.8554993,2.23,0.37,md,15,81,0.002456,0.02,nc,nc73746721,2022-06-17T14:50:11.275Z,"10km WNW of The Geysers, CA",earthquake,0.32,0.53,0.01,2,automatic,nc,nc
+2022-06-17T14:41:39.900Z,38.8253326,-122.8554993,2.23,0.37,md,15,81,0.002456,0.02,nc,nc73746721,2022-06-17T14:58:12.326Z,"10km WNW of The Geysers, CA",earthquake,0.32,0.53,0.01,2,automatic,nc,nc
 2022-06-17T14:38:45.653Z,38.1838,-117.8127,0.1,1.1,ml,10,193.7,0.124,0.1885,nn,nn00841081,2022-06-17T14:42:55.929Z,"34 km SE of Mina, Nevada",earthquake,,13.9,0.5,6,automatic,nn,nn
 2022-06-17T14:31:08.339Z,60.774,-151.4732,69.1,2.3,ml,,,,0.57,ak,ak0227q2t19t,2022-06-17T14:33:05.543Z,"13 km NW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-17T14:28:08.910Z,19.2391662597656,-155.385162353516,32.0999984741211,1.74000001,md,36,143,,0.129999995,hv,hv73046892,2022-06-17T14:31:19.270Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.62,0.790000021,1.75999999,4,automatic,hv,hv
