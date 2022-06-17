@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-17T19:31:08.094Z,64.5951,-149.4244,19,0.9,ml,,,,0.32,ak,ak0227q5s7a1,2022-06-17T19:33:10.498Z,"14 km W of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-17T19:21:39.350Z,19.2043342590332,-155.410827636719,32.2599983215332,2.46,ml,42,152,,0.119999997,hv,hv73047032,2022-06-17T19:27:09.400Z,"7 km E of Pāhala, Hawaii",earthquake,0.47,0.779999971,3.6,17,automatic,hv,hv
-2022-06-17T19:20:13.075Z,64.4652,-147.8989,10.9,3.3,ml,,,,0.58,ak,ak0227q5punx,2022-06-17T19:29:19.254Z,"38 km S of South Van Horn, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2022-06-17T19:20:13.075Z,64.4652,-147.8989,10.9,3.3,ml,,,,0.58,ak,ak0227q5punx,2022-06-17T19:34:36.326Z,"38 km S of South Van Horn, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-06-17T19:11:56.597Z,-5.5834,128.8774,306.59,4.7,mb,,20,3.385,0.87,us,us7000hi7q,2022-06-17T19:28:30.040Z,"222 km SSE of Ambon, Indonesia",earthquake,6.8,6.9,0.051,125,reviewed,us,us
 2022-06-17T19:06:05.340Z,46.002,-112.471,-2,1.8,ml,14,104,0.059,0.1,mb,mb80549014,2022-06-17T19:26:50.830Z,"4 km E of Butte, Montana",quarry blast,0.37,31.61,0.261,8,reviewed,mb,mb
 2022-06-17T18:59:33.180Z,33.2373333,-116.6481667,11.73,0.87,ml,31,84,0.03809,0.14,ci,ci40286288,2022-06-17T19:28:52.593Z,"5km SSW of Warner Springs, CA",earthquake,0.21,0.48,0.089,14,reviewed,ci,ci
@@ -110,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T07:52:23.030Z,16.7872,-61.0823,51,4.4,mb,,197,0.498,0.8,us,us7000hi2a,2022-06-17T11:00:02.159Z,"53 km N of Beauséjour, Guadeloupe",earthquake,7.2,8.1,0.08,45,reviewed,us,us
 2022-06-17T07:48:29.433Z,31.67720399,-104.4772932,2.866650391,2.6,ml,23,80,0.02179095736,0.3,tx,tx2022ltsl,2022-06-17T13:14:04.040Z,"56 km S of Whites City, New Mexico",earthquake,3.101118598,1.491498197,0.2,18,reviewed,tx,tx
 2022-06-17T07:46:34.440Z,36.4555,-117.5453333,-1.84,1.8,ml,23,100,0.1875,0.19,ci,ci40285888,2022-06-17T17:19:42.847Z,"39km WSW of Stovepipe Wells, CA",earthquake,0.41,0.67,0.117,19,reviewed,ci,ci
-2022-06-17T07:45:53.130Z,38.8263333,-122.7628333,0.76,0.49,md,15,118,0.006903,0.03,nc,nc73746621,2022-06-17T19:25:23.265Z,"4km W of Cobb, CA",earthquake,0.29,0.27,0.071,2,reviewed,nc,nc
+2022-06-17T07:45:53.130Z,38.8263333,-122.7628333,0.76,0.49,md,15,118,0.006903,0.03,nc,nc73746621,2022-06-17T19:30:10.898Z,"4km W of Cobb, CA",earthquake,0.29,0.27,0.071,2,reviewed,nc,nc
 2022-06-17T07:45:28.820Z,33.731,-116.7666667,16.53,0.81,ml,30,171,0.04802,0.16,ci,ci40285880,2022-06-17T14:44:07.964Z,"4km WSW of Idyllwild, CA",earthquake,0.3,0.37,0.198,24,reviewed,ci,ci
 2022-06-17T07:44:15.781Z,38.1763,-117.8141,9,2,ml,16,109.34,0.12,0.1342,nn,nn00841069,2022-06-17T16:38:44.688Z,"35 km SE of Mina, Nevada",earthquake,,1.6,0.77,6,reviewed,nn,nn
 2022-06-17T07:37:41.637Z,62.5493,-151.0922,82.8,1.4,ml,,,,0.37,ak,ak0227pyocyb,2022-06-17T07:40:53.263Z,"17 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -239,5 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T19:56:32.200Z,38.7878342,-122.7641678,1.61,0.45,md,16,70,0.01324,0.03,nc,nc73746396,2022-06-16T20:13:14.787Z,"1km NNW of The Geysers, CA",earthquake,0.24,0.42,0.21,4,automatic,nc,nc
 2022-06-16T19:56:07.914Z,32.38494873,-101.6433641,9.317260742,3.5,ml,17,68,0.1561742196,0.2,tx,tx2022lsuz,2022-06-17T16:58:02.040Z,"17 km SSE of Ackerly, Texas",earthquake,1.308088609,2.1233587119999995,0.2,9,reviewed,tx,tx
 2022-06-16T19:39:12.840Z,32.38494873,-101.611209,6.822875977,2.7,ml,8,70,0.1823262524,0.2,tx,tx2022lsuk,2022-06-17T16:57:09.040Z,"18 km SSE of Ackerly, Texas",earthquake,1.570799676,4.304925878999999,0.1,6,reviewed,tx,tx
-2022-06-16T19:30:34.028Z,61.7724,-150.685,43.7,1.1,ml,,,,0.59,ak,ak0227oi8p2n,2022-06-16T19:33:32.628Z,"27 km NNW of Susitna, Alaska",earthquake,,2,,,automatic,ak,ak
-2022-06-16T19:30:05.890Z,18.8903,-64.4815,43,3.67,md,9,322,0.7176,0.6,pr,pr2022167000,2022-06-16T21:18:31.040Z,"70 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.84,17,0.09,8,reviewed,pr,pr
