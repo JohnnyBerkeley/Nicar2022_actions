@@ -217,6 +217,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T03:41:59.379Z,61.2453,-151.5754,74,2.3,ml,,,,0.52,ak,ak0228omlt2o,2022-07-08T04:06:21.040Z,"28 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-08T03:38:03.280Z,19.5035,-155.6605,4,1.87,md,15,110,,0.09,hv,hv73068742,2022-07-08T03:59:47.080Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.37,0.73,0.0650189639326817,6,reviewed,hv,hv
 2022-07-08T03:37:38.727Z,-5.2415,151.8321,45.64,5.3,mww,85,29,1.094,1.02,us,us6000i0ru,2022-07-08T15:18:04.125Z,"110 km SSW of Kokopo, Papua New Guinea",earthquake,5.3,4.7,0.083,14,reviewed,us,us
+2022-07-08T03:36:56.961Z,38.6211,-118.4707,10,0.5,ml,10,105.73,0.041,0.126,nn,nn00842459,2022-07-08T23:00:04.420Z,"17 km NE of Hawthorne, Nevada",earthquake,,1.6,0,1,reviewed,nn,nn
 2022-07-08T03:30:04.860Z,37.5406667,-118.8708333,4.97,0.59,md,15,172,0.05939,0.03,nc,nc73756141,2022-07-08T04:51:10.448Z,"14km SE of Mammoth Lakes, CA",earthquake,0.43,0.87,0.124,13,reviewed,nc,nc
 2022-07-08T03:29:00.340Z,39.43,-110.3,-1.61,1.21,ml,10,198,0.02031,0.16,uu,uu60504932,2022-07-08T15:45:51.210Z,"15 km SSE of Sunnyside, Utah",earthquake,1.49,1.11,0.065,4,reviewed,uu,uu
 2022-07-08T03:28:52.990Z,33.9876667,-117.2275,9.09,0.98,ml,31,96,0.08371,0.21,ci,ci40299504,2022-07-08T03:32:23.255Z,"7km N of Moreno Valley, CA",earthquake,0.36,0.94,0.192,29,automatic,ci,ci
@@ -266,4 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T23:12:31.070Z,19.2285003662109,-155.405502319336,30.7299995422363,2.36,ml,37,145,,0.150000006,hv,hv73068457,2022-07-07T23:18:01.660Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.56,0.769999981,0.5,6,automatic,hv,hv
 2022-07-07T23:11:39.600Z,38.7729988,-122.7366638,2.36,1.02,md,22,68,0.01022,0.04,nc,nc73756006,2022-07-07T23:41:21.530Z,"2km ESE of The Geysers, CA",earthquake,0.27,0.49,0.14,5,automatic,nc,nc
 2022-07-07T23:09:36.200Z,17.9573333333333,-66.9633333333333,10.98,2.17,md,7,202,,0.09,pr,pr71358043,2022-07-07T23:17:09.880Z,"6 km SW of Fuig, Puerto Rico",earthquake,0.49,0.65,0.126967388502602,6,reviewed,pr,pr
-2022-07-07T22:56:12.410Z,40.808,-111.5308333,11.77,0.65,ml,8,99,0.1062,0.11,uu,uu60504897,2022-07-08T15:46:16.840Z,"8 km NNW of Silver Summit, Utah",earthquake,0.64,1.16,0.031,2,reviewed,uu,uu
